@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2025-09-03",
+    "user_id": 123456789,
+    "challenge_id": "CH001",
+    "dish": "Appeti-pitches",
+    "menu": "Starters"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "CH014",
+    "dish": "Appeteam-izers",
+    "menu": "Starters"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN2.S.A.LV1",
+    "dish": "Appetizer-tunities",
+    "menu": "Collab-oration à la Carte"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN2.ND.G.LV1",
+    "dish": "Gin-tegrity",
+    "menu": "Collab-oration à la Carte"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN6.NT.GP.LV1",
+    "dish": "Gin-tegrity Pact",
+    "menu": "Nego-treat-ions"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN8.NS.GA.LV1",
+    "dish": "Gin-sights Abroad",
+    "menu": "Tour-licious Journeys"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN8.NS.GA.LV1",
+    "dish": "Gin-sights Abroad",
+    "menu": "Tour-licious Journeys"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN2.MC.S.LV1",
+    "dish": "Stake-holders",
+    "menu": "Collab-oration à la Carte"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN2.ND.C.LV1",
+    "dish": "Contract-tail",
+    "menu": "Collab-oration à la Carte"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN1.CD.R&S.LV1",
+    "dish": "Rice & Shine",
+    "menu": "Egg-cellence in Life"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN7.NW.P.LV1",
+    "dish": "Post-mortarita",
+    "menu": "Pro-jectables"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN1.CD.PMH.LV1",
+    "dish": "Pizza My Heart",
+    "menu": "Egg-cellence in Life"
+  }
+]

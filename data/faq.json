@@ -1,0 +1,18 @@
+[
+  {
+    "q": "What is this bot?",
+    "a": "It suggests daily menus and fun mindset challenges for travelers."
+  },
+  {
+    "q": "How do I submit my challenge?",
+    "a": "Use the link shown with your challenge message. You have 24 hours to submit."
+  },
+  {
+    "q": "Can I pick multiple dishes a day?",
+    "a": "Yes — you can pick any dish anytime, and each will give you a new challenge."
+  },
+  {
+    "q": "What happens after I submit?",
+    "a": "You will receive a Persona Card — a snapshot of your mindset in action."
+  }
+]
