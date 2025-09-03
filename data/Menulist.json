@@ -1,46 +1,57 @@
 [
   {
     "Menu unique ID": "MN1",
-    "Menu": "Egg-cellence in Life"
+    "Menu": "Egg-cellence in Life",
+    "For who": "If you want to build an excellent life, crack joy daily"
   },
   {
     "Menu unique ID": "MN2",
-    "Menu": "Collab-oration à la Carte"
+    "Menu": "Collab-oration à la Carte",
+    "For who": "If you want better teamwork, share plates not walls."
   },
   {
     "Menu unique ID": "MN3",
-    "Menu": "Sales-flavored Success"
+    "Menu": "Sales-flavored Success",
+    "For who": "If you want to pitch with heart, season it bold."
   },
   {
     "Menu unique ID": "MN4",
-    "Menu": "Team-spiration & Synergy"
+    "Menu": "Team-spiration & Synergy",
+    "For who": "If you want stronger teams, stir trust and cheer."
   },
   {
     "Menu unique ID": "MN5",
-    "Menu": "Improv-a-licious Moments"
+    "Menu": "Improv-a-licious Moments",
+    "For who": "If you want quick ideas, spice life with play."
   },
   {
     "Menu unique ID": "MN6",
-    "Menu": "Nego-treat-ions"
+    "Menu": "Nego-treat-ions",
+    "For who": "If you want fair deals, sweeten talks with give."
   },
   {
     "Menu unique ID": "MN7",
-    "Menu": "Pro-jectables"
+    "Menu": "Pro-jectables",
+    "For who": "If you want projects done, slice tasks bite-sized."
   },
   {
     "Menu unique ID": "MN8",
-    "Menu": "Tour-licious Journeys"
+    "Menu": "Tour-licious Journeys",
+    "For who": "If you want richer travels, taste moments, not miles."
   },
   {
     "Menu unique ID": "MN9",
-    "Menu": "Budge-tasty Living"
+    "Menu": "Budge-tasty Living",
+    "For who": "If you want money to last, savor small savings."
   },
   {
     "Menu unique ID": "MN10",
-    "Menu": "Market-licious Moves"
+    "Menu": "Market-licious Moves",
+    "For who": "If you want buzz, serve stories hot and fresh."
   },
   {
     "Menu unique ID": "MN11",
-    "Menu": "PR-epared Connections"
+    "Menu": "PR-epared Connections",
+    "For who": "If you want public trust, pour honesty straight up."
   }
 ]

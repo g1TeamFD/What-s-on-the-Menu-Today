@@ -1,18 +1,18 @@
 [
   {
-    "q": "What is this bot?",
-    "a": "It suggests daily menus and fun mindset challenges for travelers."
+    "q": "What is this bot about?",
+    "a": "It suggests daily menus of Challenges to test your Mindset in Action."
   },
   {
     "q": "How do I submit my challenge?",
-    "a": "Use the link shown with your challenge message. You have 24 hours to submit."
+    "a": "Click on this link https://www.fundamentaldecisions.com/2025/08/23/submission/ to submit your Challenge. You have 24 hours to submit."
   },
   {
     "q": "Can I pick multiple dishes a day?",
-    "a": "Yes — you can pick any dish anytime, and each will give you a new challenge."
+    "a": "Yes — you can pick any dish anytime, Menus will be rotated everytime you open the bot and Dishes will be displayed according to time of the day. Each will give you a new challenge :)"
   },
   {
     "q": "What happens after I submit?",
-    "a": "You will receive a Persona Card — a snapshot of your mindset in action."
+    "a": "You will receive a Persona Card — a snapshot of your mindset in action, within 24 hours from your submission."
   }
 ]

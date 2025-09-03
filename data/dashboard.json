@@ -82,5 +82,40 @@
     "challenge_id": "MN1.CD.PMH.LV1",
     "dish": "Pizza My Heart",
     "menu": "Egg-cellence in Life"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN6.NT.C.LV1",
+    "dish": "Contract-tail",
+    "menu": "Nego-treat-ions"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN8.NS.W.LV1",
+    "dish": "Wine-derlust",
+    "menu": "Tour-licious Journeys"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN5.NS.C.LV1",
+    "dish": "Cock-tailspin",
+    "menu": "Improv-a-licious Moments"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN4.ET.G.LV1",
+    "dish": "Gin-ergized",
+    "menu": "Team-spiration & Synergy"
+  },
+  {
+    "date": "2025-09-03",
+    "user_id": 2074402690,
+    "challenge_id": "MN5.NS.G.LV1",
+    "dish": "Gin-spiration",
+    "menu": "Improv-a-licious Moments"
   }
 ]
